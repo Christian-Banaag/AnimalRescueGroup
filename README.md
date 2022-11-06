@@ -3,7 +3,7 @@ Users can use this app to learn more about how to get involved with animal rescu
 
 **Link to project:** https://christian-banaag.github.io/AnimalRescueGroup/index.html
 
-![live video of Animal Rescue Group, an animal rescue web app](https://github.com/leahthompson01/UpdatedSpace/blob/main/Above-the-Horizon.gif)
+![live video of Animal Rescue Group, an animal rescue web app](https://github.com/Christian-Banaag/AnimalRescueGroup/blob/main/AnimalRescueGroup.gif)
 
 ## How It's Made:
 
