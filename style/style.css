@@ -6,18 +6,10 @@ body{
     font-family: 'Roboto', sans-serif;
 }
 
-/* .carousel {
-    width: auto;
-    height: auto;
-    max-height: 40%;
-    max-width: 40%;
-} */
-
-
-
 .carousel-inner img{
-    max-height: 80vh;
-    width: auto;
+    max-height: 85vh;
+    width: 100%;
+    object-fit: cover;
 }
 
 .main-content div {
