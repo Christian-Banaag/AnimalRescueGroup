@@ -7,6 +7,6 @@ Users can use this app to learn more about how to get involved with animal rescu
 
 ## How It's Made:
 
-**Tech used:** HTML, CSS, JavaScript, Bootstrap
+**Tech used:** HTML, CSS, Bootstrap
 
 The site was created by using HTML, CSS, and Bootstrap. I wanted to put together a simple site without much overhead. The picture carousel was a Bootstrap component I hadn't yet used, so learning about it while implementing it for the first time was exciting.
